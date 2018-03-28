@@ -276,7 +276,7 @@ templates/customers/reset_password.liquid:
 templates/gift_card.liquid:
   development: 2018-03-27T08:14:30-04:00   16c95e9922ddd30e37f0cf018e86597c
 templates/index.liquid:
-  development: 2018-03-28T01:01:50-04:00   56b51b6f96394db4b17c64b43e1c0010
+  development: 2018-03-28T02:38:42-04:00   41a3b9189040f48ecfdff74ead1d711d
 templates/list-collections.liquid:
   development: 2018-03-27T08:14:30-04:00   15196b39880ae82958038821e31de5c9
 templates/page.contact.liquid:
